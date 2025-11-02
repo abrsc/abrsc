@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Arno 👋
 
-<!--
-**abrsc/abrsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **System & Network Administration (ASIX)** student based in Catalonia, Spain, with a passion for building and securing real-world IT infrastructure.
 
-Here are some ideas to get you started:
+My goal is to specialize in network engineering and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 I’m currently building:
+
+Right now, my main focus is my **[Proxmox VE 9 Homelab Project](https://github.com/abrsc/my-homelab/)**.
+I'm documenting the entire process of transforming a recycled PC into a full server stack, including:
+* Proxmox 9 Installation & Debugging
+* Network configuration (pfSense, VLANs)
+* Service deployment (Pi-hole, Active Directory, Kali)
+
+### 🌱 I’m currently learning:
+
+* Advanced Networking (CCNA track)
+* Linux System Administration
+* Python for automation (monitoring & backups)
