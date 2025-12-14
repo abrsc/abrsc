@@ -11,7 +11,7 @@ I am documenting the journey of building a production-ready homelab on recycled 
 * **Hypervisor:** Proxmox VE 9
 * **Security:** Cloudflare Zero Trust (Tunnel) & Nginx Proxy Manager
 * **Services:** AdGuard Home, WordPress, Ghostfolio
-* **Storage:** ZFS & Automated Backups
+* **Storage:** XFS & Automated Backups
 
 ---
 
