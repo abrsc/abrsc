@@ -7,11 +7,13 @@ My goal is to evolve into a **Cloud Architect**.
 ---
 
 ### 🔭 Featured Project: [Proxmox VE Homelab](https://github.com/abrsc/my-homelab/)
-I am documenting the journey of building a production-ready homelab on recycled hardware.
-* **Hypervisor:** Proxmox VE 9
-* **Security:** Cloudflare Zero Trust (Tunnel) & Nginx Proxy Manager
-* **Services:** AdGuard Home, WordPress, Ghostfolio
-* **Storage:** XFS & Automated Backups
+I am documenting the journey of building a production-ready homelab on recycled hardware, applying enterprise standards at home.
+
+* **Hypervisor:** Proxmox VE 9 (Cluster Architecture)
+* **Backup System:** Dedicated Proxmox Backup Server (PBS) with 3-2-1 Strategy.
+* **Data Safety:** Client-side Encryption (AES-256) & UPS Power Management (NUT).
+* **Security:** Cloudflare Zero Trust (Tunnel) & Nginx Proxy Manager.
+* **Services:** AdGuard Home, WordPress, Uptime Kuma, Ghostfolio.
 
 ---
 
@@ -37,7 +39,7 @@ I am documenting the journey of building a production-ready homelab on recycled 
 
 * Active Directory (Centralized user authentication)
 * OPNsense (Firewall & Network Segmentation)
-* Uptime Kuma (Monitoring dashboard)
+* Kubernetes (K3s Cluster)
 * Tailscale (Remote access VPN)
 
 ---
