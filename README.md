@@ -12,8 +12,9 @@ I am documenting the journey of building a production-ready homelab on recycled 
 * **Hypervisor:** Proxmox VE 9 (Cluster Architecture)
 * **Backup System:** Dedicated Proxmox Backup Server (PBS) with 3-2-1 Strategy.
 * **Data Safety:** Client-side Encryption (AES-256) & UPS Power Management (NUT).
-* **Security:** Cloudflare Zero Trust (Tunnel), Nginx Proxy Manager, Tailscale (Remote access VPN).
-* **Services:** AdGuard Home, WordPress, Uptime Kuma, Ghostfolio.
+* **Security:** Cloudflare Zero Trust (Tunnel), Nginx Proxy Manager, **Wazuh SIEM (EDR & Alerts)**, Tailscale.
+* **AI & Compute:** NVIDIA RTX 3060 GPU Passthrough for local LLMs.
+* **Services:** AdGuard Home, WordPress, Uptime Kuma, Ghostfolio, **Ollama, Open WebUI**.
 
 ---
 
@@ -25,12 +26,13 @@ I am documenting the journey of building a production-ready homelab on recycled 
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](#)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)](#)
 
 ---
 
 ### 🌱 Currently Learning
 * **Advanced Networking:** CCNA concepts & VLAN segmentation
-* **Automation:** Ansible Playbooks & Infrastructure as Code
+* **Security Automation:** Ansible Orchestration & SIEM management
 * **Cloud:** Preparing for AWS/Azure fundamentals
 
 ---
