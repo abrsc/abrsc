@@ -12,9 +12,9 @@ I am documenting the journey of building a production-ready homelab on recycled 
 * **Hypervisor:** Proxmox VE 9 (Cluster Architecture)
 * **Backup System:** Dedicated Proxmox Backup Server (PBS) with 3-2-1 Strategy.
 * **Data Safety:** Client-side Encryption (AES-256) & UPS Power Management (NUT).
-* **Security:** Cloudflare Zero Trust (Tunnel), Nginx Proxy Manager, **Wazuh SIEM (EDR & Alerts)**, Tailscale.
+* **Security:** Cloudflare Zero Trust (Tunnel), Nginx Proxy Manager, Wazuh SIEM, Tailscale.
 * **AI & Compute:** NVIDIA RTX 3060 GPU Passthrough for local LLMs.
-* **Services:** AdGuard Home, WordPress, Uptime Kuma, Ghostfolio, **Ollama, Open WebUI**.
+* **Services:** AdGuard Home, WordPress, Uptime Kuma, Ghostfolio, Ollama, Open WebUI.
 
 ---
 
