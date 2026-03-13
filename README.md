@@ -10,7 +10,7 @@ My goal is to evolve into a **Cloud Architect**.
 I am documenting the journey of building a production-ready homelab on recycled hardware, applying enterprise standards at home.
 
 * **Hypervisor:** Proxmox VE 9 (Cluster Architecture)
-* **Backup System:** Dedicated Proxmox Backup Server (PBS) with 3-2-1 Strategy.
+* **Backup System:** Dedicated Proxmox Backup Server (PBS) with 2-2-0 Strategy aiming for 3-2-1.
 * **Data Safety:** Client-side Encryption (AES-256) & UPS Power Management (NUT).
 * **Security:** Cloudflare Zero Trust (Tunnel), Nginx Proxy Manager, Wazuh SIEM, Tailscale.
 * **AI & Compute:** NVIDIA RTX 3060 GPU Passthrough for local LLMs.
